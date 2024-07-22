@@ -1,0 +1,164 @@
+*{
+    box-sizing: border-box;
+}
+
+
+
+#home{
+
+
+
+    justify-content: center;
+    align-items: center;
+}
+
+
+.top{
+    width: 100%;
+    position: absolute;
+    top: 0;
+}
+.info{
+    flex-direction: column;
+    width: 100%;
+}
+
+.label-email{
+    width: 100%;
+}
+
+.email{
+    padding: 0px;
+    width: 100%;
+    height: 40px;
+    
+}
+
+.btn{
+    margin-left: 0px;
+    margin-top: 10px;
+}
+.ad-container{
+    width: 90%;
+    flex-direction: column;
+}
+.ad-txt{
+    width: 100%;
+}
+.ad-vid{
+    margin-top: 20px;
+    width: 100%;
+}
+.ad-txt h1{
+    font-size: 44px;
+    margin-top: 0px;
+}
+.ad-vid video{
+    height: auto;
+    margin: 0px;
+}
+.download-pic{
+    width: 100%;
+    height: 317px;
+}
+.download-txt{
+    width: 90%;
+    margin: auto;
+    /* margin-top: 20px; */
+}
+.downloading{
+    height: 90px;
+    width: 63%;
+}
+.download-txt h1{
+    font-size: 34px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.download-txt p{
+    font-size: 18px;
+    margin-top: 10px;
+}
+.download-container{
+    flex-direction: column;
+    width: 100%;
+    margin: 0;
+}
+.downloading video{
+    height: 28px;
+}
+.watch-txt{
+    width: 90%;
+    margin: auto;
+}
+.kid{
+    height: 200px;
+  margin-top: 30px;
+}
+.ad-vid h1{
+    font-size: 40px;
+}
+.ad-vid p{
+    font-size: 18px;
+}
+
+
+.q1 button{
+    padding: 10px 0px 10px 0px;
+}
+.q1 span{
+    font-size: 16px;
+  padding-left: 15px;
+}
+.ion{
+    font-size: 20px;
+}
+.QnA-box1{
+    font-size: 21px;
+    text-align: center;
+}
+.q1:focus-within .h1 {
+    height: 120px;
+}
+.q1:focus-within .h2 {
+    height: 300px;
+}
+.q1:focus-within .h3 {
+    height: 230px;
+}
+
+.ans1{
+    font-size: 15px;
+}
+.ans1 p{
+    padding: 10px;
+}
+.mail{
+    padding: 9px 130px 11px 20px;
+    font-size: 13px;
+}
+.btn-1{
+    padding: 12px 30px 12px 30px;
+}
+.link{
+    margin-left: 0px;
+}
+.foot-main{
+    padding-left: 0px;
+}
+.foot{
+    width: 90%;
+}
+.foot-box{
+    height: auto;
+    font-size: 12px;
+    line-height: 28px;
+    margin-top: 40px;
+}
+.select{
+    margin-top: 25px;
+    margin-left: 0;
+}
+.foot .net{
+    margin-left: 0;
+}
