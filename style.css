@@ -28,7 +28,7 @@
 #home {
     /* overflow: hidden; */
     width: 100%;
-    background: url(/images/netflix\ bg.jpg) no-repeat;
+    background: url(./images/netflix\ bg.jpg) no-repeat;
     background-size: 100% 100%;
     height: 100vh;
     /* transform: scale(1.2); */
@@ -215,7 +215,7 @@ a button:hover {
     width: 50%;
     height: 397px;
     /* border: 2px solid white; */
-    background: url(/images/nf\ 1.jpg);
+    background: url(./images/nf\ 1.jpg);
     background-size: 100% 100%;
     display: flex;
     align-items: end;
